@@ -1,4 +1,4 @@
-# PWA
+# PWA Angular
 
 ## About this Project
 
